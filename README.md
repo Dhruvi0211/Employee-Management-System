@@ -1,6 +1,6 @@
 # Employee-Management-System
-Employee Management System Database
-Hello There, It is a simple university project of database course. I have made a simple UI and basic SQL commands to make this project. Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on the internet and so on.
+
+Employee Management System is a distributed application, developed to maintain the details of employees working in any organization. It maintains the information about the personal details, salary, leave and task of their employees.
 
 This site features:
 
