@@ -29,9 +29,11 @@ Goto phpmyadmin and create a database named 370project and then import the file 
 Then launch the site.
 
 **Login Info:**
+
 Admin Panel:
 ID: admin
 Pass: admin
+
 User Panel:
 ID: User's Email Address
 Pass: 1234 (By Default, User can change if they wish)
